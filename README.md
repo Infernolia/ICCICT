@@ -8,4 +8,4 @@ Authors: Aboli Marathe, Kapil Mirchandani, Kushal Chordiya, Kevin Stephen
 
 Conference:  11th International Conference on Computing, Communication and Networking Technologies (ICCCNT) 2020
 
-Paper link: 
+Paper link: https://ieeexplore.ieee.org/abstract/document/9225530/
