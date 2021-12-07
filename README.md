@@ -1,13 +1,12 @@
 # ICCICT
 
-Tree census data analysis.
 
-Paper Title: Big Data Analytics for Sustainable Cities: Pune Tree Census Data Exploratory Analysis
+Paper Title: 	Leveraging Natural Language Processing Algorithms to Understand the Impact of the COVID-19 Pandemic and Related Policies on Public Sentiment in India
 
-Abstract: This study aims to introduce an example of a data science pipeline integrating Machine Learning, Statistics, Data Visualization and GIS techniques for open big data in sustainable development. The chosen techniques have been implemented on the Tree Census Dataset, obtained from the geo-enabled Tree census survey conducted by the Pune Municipal Corporation, dated August 2019. This study focuses on the visualization of big data, ward-wise analysis and identification of marginalized species that require urgent attention of the authorities. The key feature of this study is the introduction of a new biodiversity index, to overcome the shortcomings of the existing indices, when applied to cities in the Indian subcontinent.
+Abstract: Understanding the effects of a pandemic on the public sentiment is an important challenge in the study of social dynamics during a global pandemic. This paper puts forward a case study that throws light on the psychological impact of the COVID-19 pandemic on the people living in the Indian subcontinent. The study is based on a pipeline that involves preprocessing, sentiment analysis, topic modelling, natural language processing and statistical analysis of Twitter data extracted in the form of tweets. The results demonstrate the effectiveness of this pipeline in understanding the temporal impact of the different lockdowns implemented in the span of the pandemic on the public sentiment, which can be useful for healthcare workers, authorities, and researchers.
 
-Authors: Aboli Marathe, Kapil Mirchandani, Kushal Chordiya, Kevin Stephen
+Authors: Aboli Marathe, Aditya Mandke, Srushti Sardeshmukh, Sheetal Sonawane
 
-Conference:  11th International Conference on Computing, Communication and Networking Technologies (ICCCNT) 2020
+Conference:  2021 International Conference on Communication information and Computing Technology (ICCICT)
 
-Paper link: https://ieeexplore.ieee.org/abstract/document/9225530/
+Paper link: https://ieeexplore.ieee.org/abstract/document/9510070/
